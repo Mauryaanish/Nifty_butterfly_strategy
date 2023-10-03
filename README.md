@@ -18,3 +18,9 @@
 
 ### Timestamp
 - Trading Day
+
+### Raw Data Image
+ ![Raw Data Image](https://github.com/Mauryaanish/Nifty_butterfly_strategy/blob/main/Raw_Data.txt/raw%20data.PNG)
+
+### After Data Cleaning & Data Preparation Image
+ ![After Data Cleaning & Data Prepration](https://github.com/Mauryaanish/Nifty_butterfly_strategy/blob/main/Raw_Data.txt/main%20data.PNG)
